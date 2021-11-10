@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+One&display=swap');
+
+h1.welcome-h1{
+    font-family: 'Mochiy Pop One', sans-serif;
+    color: whitesmoke;
+    font-size: 5rem;
+
+}
+
+div.main-content{
+    background-color: grey;
+    height: 60vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
